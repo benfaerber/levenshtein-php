@@ -1,0 +1,6 @@
+{
+    "name": "faerber/levenshtein-php",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
